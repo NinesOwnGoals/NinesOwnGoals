@@ -17,10 +17,10 @@ actually work, then building my own tools along the way.
 
 ### 📂 Projects
 
-I will somtimes put some of my Projects one here — tooling, experiments, and whatever I'm
+I will sometimes put some of my Projects one here, tooling, experiments, and whatever I'm
 currently poking at. Not everything makes the cut, but the interesting stuff does.
 
 ### 📫 Reach me
 
 - **Telegram (fastest):** [@Nines_Own_Goal](https://t.me/Nines_Own_Goal)
-- **Email:** Nines@ninesowngoal.dev *(checked rarely — Telegram's better)*
+- **Email:** Nines@ninesowngoal.dev *(checked rarely, Telegram's better)*
