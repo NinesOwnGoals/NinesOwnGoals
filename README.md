@@ -4,8 +4,6 @@ I spend my free time programming and learning **malware analysis** and
 **reverse engineering**. I like taking things apart to understand how they
 actually work, then building my own tools along the way.
 
----
-
 ### 🧰 Languages & tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
